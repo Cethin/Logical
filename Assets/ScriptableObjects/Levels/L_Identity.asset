@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ae16e2a5937ecc41a02a2d3b93dfadc, type: 3}
+  m_Name: L_Identity
+  m_EditorClassIdentifier: 
+  levelName: Identity
+  description: Connect the input to the output.
+  input: {fileID: 11400000, guid: 165ea6cdd007d6f4688ec63055e26b87, type: 2}
+  output: {fileID: 11400000, guid: 42d605ba4b62fb240b362214d5a5a2ab, type: 2}
+  rewards:
+  - {fileID: 11400000, guid: f5d0c930e0f55f847ba806360361ddb3, type: 2}

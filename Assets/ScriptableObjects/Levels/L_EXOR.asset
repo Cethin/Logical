@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ae16e2a5937ecc41a02a2d3b93dfadc, type: 3}
+  m_Name: L_EXOR
+  m_EditorClassIdentifier: 
+  levelName: EXOR
+  description: The output should be on if either, but not both, of the inputs are
+    on.
+  input: {fileID: 11400000, guid: 03897aa95019f5a45bea70adf32489a6, type: 2}
+  output: {fileID: 11400000, guid: e6f2ba06c1734764c8db0aba2ac11d8d, type: 2}
+  rewards:
+  - {fileID: 11400000, guid: 51c33e21ed6f2464183d42e3a7ccc4ed, type: 2}

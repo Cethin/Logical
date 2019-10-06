@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ae16e2a5937ecc41a02a2d3b93dfadc, type: 3}
+  m_Name: L_NOT
+  m_EditorClassIdentifier: 
+  levelName: Not
+  description: Invert the input.
+  input: {fileID: 11400000, guid: 374ad7a4bb5983c46b5810ce58aecb76, type: 2}
+  output: {fileID: 11400000, guid: 59815f265a4151c45b6febcaf2c7bd47, type: 2}
+  rewards:
+  - {fileID: 11400000, guid: 8ecf9a1562522f140bdcb7b6618750fe, type: 2}
